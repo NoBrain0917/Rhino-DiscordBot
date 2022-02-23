@@ -25,7 +25,7 @@ function response(room, msg, sender, isGroupChat, replier, imageDB, packageName)
   }
   
   if(msg == "/시작") {
-    Bot.login("NzYzMTg2Mzk4NjMwNzcyNzk4.X30CuA.8ZvXLLVyc3aZlaSvu22iZVbQ2dU");
+    Bot.login(token);
   }
 }
 
